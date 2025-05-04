@@ -84,7 +84,7 @@ const PremiumExperience = () => {
           Book our exclusive dining suites for special events, executive meetings, or romantic evenings. Custom menus, fine wines, and unforgettable service await.
         </p>
         <a
-          href="#contact"
+          href="/contact"
           className="inline-block px-8 py-4 bg-pink-600 text-white rounded-full text-lg font-medium hover:bg-yellow-500 transition-all duration-300"
         >
           Reserve Now

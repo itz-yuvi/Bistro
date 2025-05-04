@@ -113,7 +113,7 @@ const menuItems = [
             Let our in-house sommelier guide you through exquisite wine pairings with every course — from sparkling to robust reds and rare vintages.
           </p>
           <a
-            href="#reserve"
+            href="/contact"
             className="inline-block px-8 py-3 bg-pink-600 text-white rounded-full text-lg font-medium hover:bg-yellow-500 transition-all duration-300"
           >
             Book Wine Experience
